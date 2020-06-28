@@ -26,5 +26,6 @@
       "@routes/*": ["./src/routes/*"],
       "@config/*": ["./src/config/*"]
     }
-  }
+  },
+  "include": ["src/**/*"]
 }
